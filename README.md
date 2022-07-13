@@ -1,10 +1,9 @@
 # <img align="left" alt="Seedspreed" width="100px" src="https://seedspreed.cf/themes/wondertag/img/logo.png" draggable="false" /> Seedspreed ([Click to try 🚀](https://seedspreed.cf/))
 
-Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
+Seedspreed 🌱 - build your business network 👨‍💼 and connect with people from your business environment.🌐
 
-
-## **[Changelog 🧡](https://github.com/linkspreed/linkspreed.com/blob/main/changelog.md)** **Check out the full Linkspreed changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/linkspreed.com/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed besides development**
+## **[Changelog 🌱](https://github.com/linkspreed/Seedspreed/blob/main/changelog.md)** **Check out the full Seedspreed changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/SeedSpreed/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Seedspreed besides development**
 
 
 <div align="center">
