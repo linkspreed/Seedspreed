@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed" width="100px" src="https://www.linkspreed.com/themes/wondertag/img/logo.png" draggable="false" /> Linkspreed ([Click to try 🚀](https://www.linkspreed.com/))
+# <img align="left" alt="Seedspreed" width="100px" src="https://seedspreed.cf/themes/wondertag/img/logo.png" draggable="false" /> Seedspreed ([Click to try 🚀](https://seedspreed.cf/))
 
 Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
 
