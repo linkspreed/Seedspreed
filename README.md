@@ -21,20 +21,14 @@ Seedspreed 🌱 - build your business network 👨‍💼 and connect with peopl
 - an intelligent messenger
 - 24 hour stories to capture short-term events
 - Live videos
-- call friends and stay in contact
+- call colleagues and stay in contact
 **AND SO MUCH MORE ...**
 
 ## More
  
-**Linkspreed** was developed for you. 
-Are you creative, 
-like to laugh or just 
-want to start the day relaxed? 
-Linkspreed is a social network where millions of users share their best moments, 
-show off their creativity and 
-put a smile on other people's faces.
+**Seedspreed** was built for you, so you can grow your contacts and connect with the people who drive you and your ideas forward.
 
-Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
+Seedspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
  ```php
     We make sure that our code 
@@ -44,10 +38,10 @@ Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed
 
  ```txt
    We will soon be presenting
-   Linkspreed's API here on GitHub
+   Seedspreed's API here on GitHub
    as well :)
 ```
- Register now on Linkspreed and immerse yourself in a network with no limits to creativity.
+ Register now on Seedspreed and immerse yourself in the best business network.
 
 ## 📷 UI
 
