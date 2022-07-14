@@ -58,7 +58,7 @@ Seedspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed
 ### Chats
 <img align="center" alt="Seedspreed" width="3000px" src="https://github.com/linkspreed/Seedspreed/blob/main/Screenshots/4.PNG" draggable="false" />
 
-### Dark Mode
+### Light Mode
 <img align="center" alt="Seedspreed" width="3000px" src="https://github.com/linkspreed/Seedspreed/blob/main/Screenshots/5.PNG" draggable="false" />
 
 ### General Settings
