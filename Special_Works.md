@@ -1,3 +1,6 @@
+# 29.07.2022
+  - We fixed a bug with the logo.
+
 # 11.07.2022
   - Today on July 11th, 2022 we connected and pushed **Seedspreed.cf** to the Cloudflare infrastructure.
      - This improves both **speed** and **safety**.
