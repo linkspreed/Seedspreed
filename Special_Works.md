@@ -1,3 +1,6 @@
+# 08.08.2022
+  - We are considering developing a new landing page and are working on plans.
+
 # 29.07.2022
   - We fixed a bug with the logo.
 
