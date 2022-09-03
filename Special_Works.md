@@ -1,3 +1,7 @@
+# 03.09.2022
+ - We are currently very much focused on developing a new, huge update for Seedspreed.  
+ - Version 4.1.2 will be gigantic 😍
+
 # 08.08.2022
   - We are considering developing a new landing page and are working on plans.
 
