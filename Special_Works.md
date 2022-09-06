@@ -1,4 +1,7 @@
 # 06.09.2022
+ - 😍 We will do a test launch of version 4.1.2 on Seedspreed.
+
+# 06.09.2022
  - We will now finish the new version 4.1.2.
 
 # 03.09.2022
