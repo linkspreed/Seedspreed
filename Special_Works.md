@@ -1,4 +1,7 @@
 # 07.09.2022
+ - We are now working on fine-tuning for version 4.1.2. 😍
+
+# 07.09.2022
 - The CronJob has now been fully developed and successfully loaded onto our servers.
 - This allows us to keep improving the site.
 
