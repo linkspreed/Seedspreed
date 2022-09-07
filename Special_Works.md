@@ -1,4 +1,7 @@
 # 07.09.2022
+ - We're still making small changes to Seedspreed.
+
+# 07.09.2022
  - We are now working on fine-tuning for version 4.1.2. 😍
 
 # 07.09.2022
