@@ -1,4 +1,7 @@
 # 07.09.2022
+ - Map integration and location sharing is now possible on Seedspreed :D
+
+# 07.09.2022
  - We're still making small changes to Seedspreed.
 
 # 07.09.2022
