@@ -1,4 +1,7 @@
 # 08.09.2022
+ - Do you love gifs? Then share them now on Seedspreed. 😍
+
+# 08.09.2022
  - Create colored posts on Seedspreed and share your text in them :)
 
 # 07.09.2022
