@@ -1,4 +1,9 @@
 # 08.09.2022
+ - https://seedspreed.cf/
+ - **Seedspreed** is finished.☑️
+ - Now enjoy version 4.1.2 of Linkspreed's best business network.
+
+# 08.09.2022
  - Do you love gifs? Then share them now on Seedspreed. 😍
 
 # 08.09.2022
