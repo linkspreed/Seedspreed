@@ -1,3 +1,6 @@
+# 08.09.2022
+ - Create colored posts on Seedspreed and share your text in them :)
+
 # 07.09.2022
  - Map integration and location sharing is now possible on Seedspreed :D
 
