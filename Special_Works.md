@@ -1,6 +1,6 @@
 # 08.09.2022
  - https://seedspreed.cf/
- - **Seedspreed** is finished.☑️
+ - Seedspreed is finished.☑️
  - Now enjoy version 4.1.2 of Linkspreed's best business network.
 
 # 08.09.2022
