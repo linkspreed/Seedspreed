@@ -1,3 +1,6 @@
+# 10.09.2022
+ - Tomorrow we are expected to release version 4.1.3 of Linkspreed, ForJu and SeedSpreed, which actually only fixed a few bugs. 🚀
+
 # 08.09.2022
  - https://seedspreed.cf/
  - Seedspreed is finished.☑️
