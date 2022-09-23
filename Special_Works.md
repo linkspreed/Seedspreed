@@ -1,3 +1,6 @@
+# 23.09.2022
+ - We are currently working and developing version 4.1.4 for SeedSpreed
+
 # 12.09.2022
  - Version 4.1.3 has been successfully released and tested on the platforms. ✅
  - It is now available online.
