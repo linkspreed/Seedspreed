@@ -1,4 +1,7 @@
 # 01.10.2022
+ - Registration via Google is coming back.
+
+# 01.10.2022
  - The new landing page design was enrolled on SeedSpreed. 
  - Enjoy it :)
 
