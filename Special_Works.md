@@ -1,3 +1,6 @@
+# 01.10.2022
+ - We are currently working on a new landing page for SeedSpreed.
+
 # 25.09.2022
  - The entire changelog for version 4.1.4 is now available on Github.
 
