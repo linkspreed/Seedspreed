@@ -1,4 +1,8 @@
 # 01.10.2022
+ - The new landing page design was enrolled on SeedSpreed. 
+ - Enjoy it :)
+
+# 01.10.2022
  - https://user-images.githubusercontent.com/102324985/193396476-da6a80e7-ab55-4924-9de0-41c502f4fe0a.png
 
 # 01.10.2022
