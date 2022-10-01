@@ -1,4 +1,7 @@
 # 01.10.2022
+ - https://user-images.githubusercontent.com/102324985/193396476-da6a80e7-ab55-4924-9de0-41c502f4fe0a.png
+
+# 01.10.2022
  - We are currently working on a new landing page for SeedSpreed.
 
 # 25.09.2022
