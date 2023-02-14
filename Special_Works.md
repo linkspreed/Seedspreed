@@ -1,3 +1,24 @@
+### 14.02.2023 (announcement SeedSpreed)
+- https://github.com/linkspreed/SeedSpreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 14.02.2023 (announcement SeedSpreed)
+- The launch of version 4.1.5 of **SeedSpreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.tk 🔗
+
+### 14.02.2023 (announcement SeedSpreed)
+- We are now starting the launch of v4.1.5.
+
+### 14.02.2023 (announcement SeedSpreed)
+- The servers are now ready for the launch of version 4.1.5 for **SeedSpreed**.
+
+### 14.02.2023 (announcement SeedSpreed)
+- The code is now ready for the launch of version 4.1.5 for **SeedSpreed**.
+
+### 14.02.2023 (announcement SeedSpreed)
+-  **SeedSpreed** gets a big update today - we are going to launch v4.1.5. 😍
+
 ### 20.10.2022 (announcement seedSpreed)
 - We updated the changelog for the new design update on Github.
 
