@@ -1,4 +1,4 @@
-# <img align="left" alt="Seedspreed" width="100px" src="https://seedspreed.cf/themes/wondertag/img/logo.png" draggable="false" /> Seedspreed ([Click to try 🚀](https://seedspreed.cf/)) (v4.1.5)
+# <img align="left" alt="Seedspreed" width="100px" src="https://seedspreed.cf/themes/wondertag/img/logo.png" draggable="false" /> Seedspreed ([Click to try 🚀](https://seedspreed.cf/)) (v4.2.1)
 
 Seedspreed 🌱 - build your business network 👨‍💼 and connect with people from your business environment.🌐
 
