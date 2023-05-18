@@ -1,3 +1,61 @@
+# v4.2.1 (19 May, 2023)
+ - FIXED contact us page on sunshien theme.
+ - FIXED messages list not showing on phone in sunshine.
+ - FIXED turn off / on notifications on sunshine theme.
+ - FIXED notifications bell not showing on sunshine on profile page.
+ - FIXED announcement text not showing on sunshine theme.
+ - FIXED comments cannot be made on blogs.
+ - FIXED users cannot be verified by moderators.
+ - FIXED avatars cannot be changed in manage genders page in admin panel.
+ - FIXED sorting by price doesn't work well on marketplace.
+ - FIXED creating an article in the blog and publishing it, it does not show words with accented letters.(à,è,ì,ò,ù).
+ - FIXED 10+ minor bugs in back and front end.
+
+# v4.2 (5 May, 2023)
+ - ADDED new theme, updated ForJu to v2 completely.
+ - ADDED AI image generation system, now users can generate images directly and post them.
+ - ADDED AI post and text generation system, now users can generate texts and post ideas directly and post them.
+ - ADDED AI article generation system, now users can generate articles in blog system.
+ - ADDED AI image editing system, users can edit their avatar and cover as they want using text promots.
+ - ADDED AI system using credit system, charge your website's users for each image, text generated.
+ - ADDED google authentication for two authentication system.
+ - ADDED authy authentication for two authentication system.
+ - ADDED Braintree payment gateway.
+ - ADDED new APIs.
+ - ADDED username restriction, disallow and band usernames.
+ - ADDED photo quailty option in admin panel.
+ - ADDED the ability to enable or disable start up page.
+ - ADDED the ability to choose RTL lang from admin panel.
+ - ADDED support for PHP v8.2
+ - UPDATED text editors.
+ - FIXED 10+ API issues.
+ - FIXED sitemap system generating more than 50K element in one file.
+ - FIXED Yoomoney payment not funding.
+ - FIXED text editor can't add images in edit terms or edit pages in admin panel.
+ - FIXED filter by active users in Admin > Manage Users not working.
+ - FIXED Moderator cannot edit languages.
+ - FIXED disabling blog system still showing create article link in header.
+ - FIXED Google Vision API not working if posting an album.
+ - FIXED video is no auto pausing if you scroll down to other posts.
+ - FIXED banned user's posts still showing on hashtag page.
+ - FIXED if the hashtag has capital letter it makes it an entirely different hashtag.
+ - FIXED broken datepicker in settings page.
+ - FIXED Invitation codes can not be generated in admin panel.
+ - FIXED /movies/watch url returning 404 page.
+ - FIXED when you create a fake user, and login in using the fake user info, you'll go to 404 and can't login in
+ - FIXED can't upload SVG images from edit or add reactions from admin panel.
+ - FIXED openweathermap API call, now it's all paid.
+ - FIXED The pro membership levels are still showing the old names on the dashboard even after changing all the names.
+ - FIXED ReCAPTCHA is not showing on first visit to contact us page, if you refresh the page it will be showing then.
+ - FIXED Google Translation is not working.
+ - FIXED The notification sound is not working with Ajax.
+ - FIXED can't logout using nginx.
+ - FIXED all emails are being sent like mime format.
+ - FIXED Events that have been finished, shouldn’t be open to join.
+ - FIXED If you want to make a user Admin of your page, Privileges can not be changed for that user. The button is not working
+ - FIXED 1 security issue.
+ - FIXED 20+ more minor bugs.
+
 # v4.1.5 (14 Feb, 2023)
  - ADDED Cache System -> now the website speed is more than 80% faster, average load dropped from 1.2s to 0.15s.
  - FIXED 4 security issues, in follow privacy, bruteforce on login & two auth, XSS in messages using nodejs.
