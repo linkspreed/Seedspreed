@@ -1,3 +1,67 @@
+### 19.05.2023 (announcement Seedspreed)
+- 🌱🚀 Breaking news: Seedspread just released version 4.2.1! 🎉🎉 Check out the patch notes on Github and see how we fixed the pesky bugs our users reported. Have you updated yet? Any issues you want to report? #Seedspread #techupdates #newrelease 💻📱
+
+### 19.05.2023 (announcement Seedspreed)
+- https://github.com/linkspreed/Seedspreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 19.05.2023 (announcement Seedspreed)
+- The launch of version 4.2.1 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 19.05.2023 (announcement Seedspreed)
+- We are now starting the launch of v4.2.1.
+
+### 19.05.2023 (announcement Seedspreed)
+- The servers are now ready for the launch of version 4.2.1 for **Seedspreed**.
+
+### 19.05.2023 (announcement Seedspreed)
+- The code is now ready for the launch of version 4.2.1 for **Seedspreed**.
+
+### 19.05.2023 (announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.2.1. 😍
+
+### 18.05.2023 (announcement Seedspreed)
+- 🌱🐛 Exciting news! We'll be releasing version 4.2.1 for Seedspreed in the next few hours 🎉 We squashed some pesky bugs that were reported by our amazing community! 🙌 What do you love most about Seedspreed? Let us know in the comments below! #seedspreed #bugfixes #communitylove
+
+### 13.05.2023 (announcement Seedspreed)
+- 🎉Great news!🎉 We've fixed the issue with Seedspreed's landing page🚀, it was incompatible with the new v4.2 version.💻 In the meantime, we've swapped it out with the old landing page from Linkspreed.com🌐. Have you already checked it out❓ #Seedspreed #Linkspreed #landingpage #updates
+
+### 12.05.2023 (announcement Seedspreed)
+- 🌱Exciting news!🌿 Seedspread just made a little design change inspired by Linkspreed. Take a look at screenshot 1 for the old design and screenshot 2 to see our new and improved look with small tweaks. What do you think of our new design? #seedspread #designchanges 💻📱🔍👀🤔
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/7426d6ce-9816-4d20-aece-ef27475e8e94
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/f2fe309e-313f-40ff-ac31-897826c56011
+
+### 12.05.2023 (announcement Seedspreed)
+- 🌱👏 We're thrilled to announce that our backend code for Seedspreed has passed all tests with flying colors! Version 4.2 is now officially ready for launch. What are you most excited about in the new version of Seedspreed? 🌟🚀 #SeedspreedUpdate #Version4.2 #FutureTech
+
+### 12.05.2023 (announcement Seedspreed)
+- 🌱📲 Get ready to witness the power of AI in social media! How do you think AI will change the way we use social media? We're thrilled to announce that Seedspreed now has AI capabilities integrated into our platform. Stay tuned for the official release in the coming days! 🌟🤖 #SeedspreedAI #AIinSocialMedia #TheFutureIsNow
+
+### 12.05.2023 (announcement Seedspreed)
+- We've finally solved the issue on Seedspreed that caused a connection break with Cloudflare infrastructure. 🙌🏼 Have you experienced any technical glitches lately? Let us know in the comments below! 👇🏼 #Seedspreed #bugfix #techproblems #cloudflare #techsupport
+
+### 11.05.2023 (announcement Seedspreed)
+- The launch of version 4.2 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 11.05.2023 (announcement Seedspreed)
+- We are now starting the launch of v4.2.
+
+### 11.05.2023 (announcement Seedspreed)
+- The servers are now ready for the launch of version 4.2 for **Seedspreed**.
+
+### 11.05.2023 (announcement Seedspreed)
+- The code is now ready for the launch of version 4.2 for **Seedspreed**.
+
+### 11.05.2023 (announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.2. 😍
+
+### 11.05.2023 (announcement Seedspreed)
+- 🌱🚀 Exciting news! We're releasing v4.2 for Seedspread, our social network with brand new AI features TODAY!😍 Have you ever wondered how AI can enhance your social media experience?🤔 Share your thoughts with us in the comments below!👇 #Seedspread #AI #socialmedia
+
 ### 14.02.2023 (announcement SeedSpreed)
 - https://github.com/linkspreed/SeedSpreed/blob/main/changelog.md
 - The entire changelog is now available on Github.
