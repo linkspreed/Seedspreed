@@ -1,3 +1,6 @@
+### 26.06.2023 (announcement Seedspreed)
+- 🌱🚀 Exciting news! We just added Seedspreed to our subdomain system 🎉🌐 With https://seedspreed.cf, you'll now be redirected to https://seedspreed.linkspreed.com. But don't worry, nothing changes for you! You can keep using the platform with all your existing data as usual. Have you tried it yet? #Seedspreed #Linkspreed #Subdomain #Update 💻🌿
+
 ### 19.05.2023 (announcement Seedspreed)
 - 🌱🚀 Breaking news: Seedspread just released version 4.2.1! 🎉🎉 Check out the patch notes on Github and see how we fixed the pesky bugs our users reported. Have you updated yet? Any issues you want to report? #Seedspread #techupdates #newrelease 💻📱
 
