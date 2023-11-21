@@ -1,3 +1,27 @@
+### 21.11.2023 (announcement Seedspreed)
+- 🌱📢 Exciting news! 🎉 We've just updated Seedspreed to version 4.3! 🚀🌟 Experience the latest features and improvements in our cutting-edge social media management platform. 📲💼 Get ready to take your online presence to the next level! 😎💪 #SeedspreedUpdates #SocialMediaManagement
+
+### 21.11.2023 (announcement Seedspreed)
+- https://github.com/linkspreed/Seedspreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 21.11.2023(announcement Seedspreed)
+- The launch of version 4.3 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 21.11.2023(announcement Seedspreed)
+- We are now starting the launch of v4.3.
+
+### 21.11.2023(announcement Seedspreed)
+- The servers are now ready for the launch of version 4.3 for **Seedspreed**.
+
+### 21.11.2023(announcement Seedspreed)
+- The code is now ready for the launch of version 4.3 for **Seedspreed**.
+
+### 21.11.2023(announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.3. 😍
+
 ### 26.06.2023 (announcement Seedspreed)
 - 🌱🚀 Exciting news! We just added Seedspreed to our subdomain system 🎉🌐 With https://seedspreed.cf, you'll now be redirected to https://seedspreed.linkspreed.com. But don't worry, nothing changes for you! You can keep using the platform with all your existing data as usual. Have you tried it yet? #Seedspreed #Linkspreed #Subdomain #Update 💻🌿
 
