@@ -1,3 +1,27 @@
+### 09.12.2023 (announcement Seedspreed)
+- 🌱 Exciting news! We've just released version v4.3.2 of Seedspreed! 🚀🎉 Our team has been working hard to bring you the latest updates and improvements. What's your favorite feature in this new version? Share with us using #SeedspreedUpdates. 🌟👇 #SoftwareRelease #TechUpdates
+
+### 09.12.2023 (announcement Seedspreed)
+- https://github.com/linkspreed/Seedspreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.12.2023 (announcement Seedspreed)
+- The launch of version 4.3.2 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 09.12.2023 (announcement Seedspreed)
+- We are now starting the launch of v4.3.2.
+
+### 09.12.2023 (announcement Seedspreed)
+- The servers are now ready for the launch of version 4.3.2 for **Seedspreed**.
+
+### 09.12.2023 (announcement Seedspreed)
+- The code is now ready for the launch of version 4.3.2 for **Seedspreed**.
+
+### 09.12.2023 (announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.3.2. 😍
+
 ### 30.11.2023 (announcement Seedspreed)
 - 🌱 Exciting news! 🎉 We've just released Version 4.3.1 of Seedspreed, our groundbreaking platform! 🚀🌿 This update is a reason to celebrate! 🎊 Discover all the latest features and improvements on GitHub. 🔍📝 #SeedspreedUpdate #NewRelease #TechRevolution
 
